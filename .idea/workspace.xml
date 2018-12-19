@@ -129,13 +129,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545228153998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545228189445" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -155,7 +155,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -169,7 +169,7 @@
       <workItem from="1544635133279" duration="180000" />
       <workItem from="1544635373099" duration="260000" />
       <workItem from="1545224115618" duration="1682000" />
-      <workItem from="1545226460305" duration="1277000" />
+      <workItem from="1545226460305" duration="1615000" />
     </task>
     <task id="LOCAL-00001" summary="COmmit 1">
       <created>1545226875839</created>
@@ -182,7 +182,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4015000" />
+    <option name="totallyTimeSpent" value="4353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -195,6 +195,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979592" visible="true" weight="0.26979" />
       <window_info id="Structure" order="1" sideWeight="0.5020408" side_tool="true" weight="0.26979" />
