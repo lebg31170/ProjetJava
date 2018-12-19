@@ -1,2 +1,2 @@
-public class test {bonjru qsudkf uqsdhf sdf
+public class test {bon
 }
