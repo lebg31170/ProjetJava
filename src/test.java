@@ -1,2 +1,2 @@
-public class test {bonjour
+public class test {bonjour bonjour
 }
